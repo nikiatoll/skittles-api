@@ -13,7 +13,7 @@ const flavors={
         'purple' : 'Grape',
         'green' : 'Lime'
     },
-    'wild Berry': {
+    'wild berry': {
         'green': 'Mellon Berry',
         'blue': 'Raspberry',
         'red': 'Wild Cherry',
